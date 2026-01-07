@@ -17,10 +17,11 @@ python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
+```
 
 ## Challenges Overview
-Login Tampering (body / Intruder)
-Cookie + Method Tampering
-User-Agent Header + Response Header Inspection
+- Login Tampering (body / Intruder)
+- Cookie + Method Tampering
+- User-Agent Header + Response Header Inspection
 
 No solutions are provided in this repository.
