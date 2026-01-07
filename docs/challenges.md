@@ -10,7 +10,7 @@ Goal:
 - Gain admin privileges using cookies
 - Use the correct HTTP method
 
-## 3. Header
+## 3. User Agent
 Goal:
 - Modify request headers to unlock the flag
 - Flag can be hidden in the response header
